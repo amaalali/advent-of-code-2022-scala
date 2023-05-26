@@ -1,1 +1,1 @@
-def run(data: loadData.Parsed): Int = ???
+def run(data: loadData.Part2ParsedResult): Int = ???
